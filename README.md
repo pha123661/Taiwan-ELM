@@ -4,6 +4,8 @@
 
 > Efficient LLM for Taiwan with open weights/datasets/checkpoints and affordable sizes (270M/1.1B)
 
+🤗 <a href="https://huggingface.co/collections/liswei/taiwan-elm-665c238424cc1676f9c8c3ee" target="_blank">Model Collection</a> • 📖 <a href="https://huggingface.co/collections/liswei/traditional-chinese-llm-corpus-6636f2dee48c957c340f23e6" target="_blank">Traditional Chinese Corpus</a> 
+
 # Taiwan ELM
 
 Taiwan ELM is a family of Efficient LLMs for Taiwan base on [apple/OpenELM](https://huggingface.co/apple/OpenELM).
